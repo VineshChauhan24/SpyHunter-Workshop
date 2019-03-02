@@ -11,6 +11,13 @@ Username: root
 Password: bsides
 ```
 
+apkTool
+Wireshark
+dex2jar
+JD-GUI
+Android Debug Bridge 
+code editor 
+
 Feel free to reach out to me with any questions!
 
 [Twitter](http://twitter.com/chmodxx_) | [Instagram](http://instagram.com/chmodxx) | [Email](mailto:hello@chmodxx.net)
